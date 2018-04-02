@@ -1,4 +1,4 @@
-html>
+<html>
 <head>
 <h1>Things I have learned at Bloc.io</h1>
 </head>
